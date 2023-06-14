@@ -2,10 +2,10 @@
 Hotel management system using WPF to manage all the reservations and the kitchen for food ordering
 
 #Sorry for the inconvenience. But this solution has 2 folders.
-   1-Hotel Reservation (WPF)
+   *Hotel Reservation (WPF)
 	   -This contain the (sln) for the solution
 
-   2-Hotel Management (WPF)
+   *Hotel Management (WPF)
 	   -This has all the project files (xaml, C#)
 
 #[Features - FrontEnd]: 
@@ -24,8 +24,8 @@ Hotel management system using WPF to manage all the reservations and the kitchen
   * Database included (HotleDB)
   * Screenshots included
   * credentials for hotel frontend desk (Login)
-     --UserName: admin
-     --Password: admin
+     * UserName: admin
+     * Password: admin
   * credentials for hotel kitchen (Login)
-     --UserName: kitchen
-     --Password: kitchen
+     * UserName: kitchen
+     * Password: kitchen
