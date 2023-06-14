@@ -1,0 +1,95 @@
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Hotel Management (WPF).exe
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Hotel Management (WPF).deps.json
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Hotel Management (WPF).runtimeconfig.json
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Hotel Management (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Hotel Management (WPF).pdb
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).csproj.AssemblyReference.cache
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\App.g.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF)_MarkupCompile.cache
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF)_MarkupCompile.lref
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).g.resources
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).AssemblyInfoInputs.cache
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).AssemblyInfo.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).csproj.CoreCompileInputs.cache
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).csproj.CopyComplete
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\refint\Hotel Management (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).pdb
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Hotel Management (WPF).genruntimeconfig.cache
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\ref\Hotel Management (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Frontend.g.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Frontend.baml
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Login.g.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Login.baml
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\FoodMenu.g.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Kitchen.g.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\FoodMenu.baml
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\Kitchen.baml
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\FinalizePayment.g.cs
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\FinalizePayment.baml
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\MahApps.Metro.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\de\MahApps.Metro.resources.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\obj\Debug\net7.0-windows\App.baml
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\MetroFramework.Design.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\MetroFramework.Fonts.dll
+D:\Coding\ITI\C#\Tasks\Hotel Management (WPF)\bin\Debug\net7.0-windows\MetroFramework.dll
