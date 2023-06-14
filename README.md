@@ -7,7 +7,6 @@ Hotel management system using WPF to manage all the reservations and the kitchen
    * Hotel Management (WPF) => This has all the project files (xaml, C#)
 
 # [Features - FrontEnd]: 
-   * Seperate Login for both kitchen & reservation table
    * Add/edit/update/delete an entry
    * Full data grid view
    * Search
