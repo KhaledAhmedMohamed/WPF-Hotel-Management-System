@@ -1,0 +1,30 @@
+﻿<mah:MetroWindow x:Class="Hotel_Management__WPF_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:Hotel_Management__WPF_"
+        mc:Ignorable="d"
+        Title="Sign in" Height="390" Width="530"
+        Name="WinLogIn"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label Width="auto" Height="auto" Margin="20,10,0,0" FontSize="25" FontWeight="UltraLight" Grid.Row="0" HorizontalAlignment="Left" RenderTransformOrigin="0.526,1.323">Login</Label>
+        <Label Name="lblUserName" Margin="-188,5,0,5" Grid.Row="1" HorizontalAlignment="Center">UserName</Label>
+        <TextBox Name="TboxUserName" mah:TextBoxHelper.Watermark="Username" FontSize="15" BorderBrush="Turquoise" Grid.Row="2" HorizontalAlignment="Center" Width="252" Height="30"></TextBox>
+        <Label Name="lblPassword" Margin="-188,5,0,5" Grid.Row="3" HorizontalAlignment="Center">Password</Label>
+        <PasswordBox Name="TboxPassword" mah:TextBoxHelper.Watermark="Password" FontSize="15" BorderBrush="Turquoise" Grid.Row="4" HorizontalAlignment="Center" Width="252" Height="30"></PasswordBox>
+        <Button Name="btnSignIn" Click="SignIn" Margin="0,20,0,0" Grid.Row="5" HorizontalAlignment="Center" Width="252" Height="30" >Sign in</Button>
+        
+
+    </Grid>
+</mah:MetroWindow>

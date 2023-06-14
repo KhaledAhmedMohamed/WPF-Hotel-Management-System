@@ -1,0 +1,15 @@
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\bin\Debug\net7.0\Hotel Reservation (WPF).exe
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\bin\Debug\net7.0\Hotel Reservation (WPF).deps.json
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\bin\Debug\net7.0\Hotel Reservation (WPF).runtimeconfig.json
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\bin\Debug\net7.0\Hotel Reservation (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\bin\Debug\net7.0\Hotel Reservation (WPF).pdb
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).csproj.AssemblyReference.cache
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).AssemblyInfoInputs.cache
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).AssemblyInfo.cs
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).csproj.CoreCompileInputs.cache
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\refint\Hotel Reservation (WPF).dll
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).pdb
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\Hotel Reservation (WPF).genruntimeconfig.cache
+D:\Coding\ITI\C#\Tasks\Hotel Reservation (WPF)\obj\Debug\net7.0\ref\Hotel Reservation (WPF).dll
